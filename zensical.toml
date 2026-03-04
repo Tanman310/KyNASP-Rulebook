@@ -8,3 +8,5 @@ items = [
   { name = "Rulebook", path = "rulebook/" },
   { name = "Interpretations", path = "interpretations/index.md" }
 ]
+
+extra_css = ["stylesheets/extra.css"]
