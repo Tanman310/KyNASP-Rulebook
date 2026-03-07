@@ -1,166 +1,32 @@
----
-icon: lucide/rocket
----
+<p class="center-bold">The Archery Way</p>
 
-# Get started
+<p class="center-italic">As archers, we strive to shoot our best while competing with integrity. Honesty is an expectation, sportsmanship and composure, an obligation. We encourage others and understand our responsibility to self-officiate and protect the field with an overall goal of bringing the archery way into everyday life.</p>
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+# Ky NASP Rules & Protocols
 
-## Commands
+NASP is an activity that doesn’t discriminate based on popularity, athletic skill, gender, size, or academic ability.
+It’s a different kind of team sport. It’s open to any student. Its biggest supporters are professional educators. Teams come together around one thing: Archery.
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+The National Archery in the Schools Program is an in-school program aimed at improving educational performance among students in grades 4th – 12th. And through it, students are learning focus, self-control, discipline, patience, and the life lessons required to be successful in the classroom and in life.
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+## Operating Principles
 
-## Examples
+1. **All NASP safety features must be followed to preserve archery’s impeccable safety record.** Archery’s safety record is better than that of every ball sport taught in schools except table tennis. The set up and operation of a safe archery range is thoroughly covered in the NASP “Basic Archery Instructor” training series.
 
-### Admonitions
+2. **NASP lessons are oriented towards target archery.** Target archery is widely accepted as a safe, wholesome, and noncontroversial discipline. Founders designed the program so young people everywhere, whether urban or rural, could learn archery skills and decide on their own how and where to apply those skills.
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/)
+3. **NASP lessons are presented to students in grades 4-12.** Students in these grade levels are best able to use the universal-fit NASP equipment and adhere to all NASP safety features. The units of study were written for these grade levels.
 
-!!! note
+4. **NASP lessons are presented by NASP-trained instructors in accordance with their training.** Range set-up and operation, equipment, and training methods used in NASP® are very specific and the same for every school in the program. No matter the prospective instructor’s level of archery expertise, each must graduate from the NASP “Basic Archery Instructor” training series. Only NASP-certified trainers may present “Basic Archery Instructor” courses.
 
-    This is a **note** admonition. Use it to provide helpful information.
+5. **NASP lessons are presented by school faculty as part of the in-school curriculum.** NASP lessons were co-written by educators and archers. They were designed to be compliant with core content standards defined by education departments. By aligning archery lessons with these standards, NASP® lessons are taught in school, during the school day, to every student. This in-school teaching emphasis provides opportunity for every student to discover their interest and aptitude for archery as opposed to attracting only existing archers to after-school-only programming.
 
-!!! warning
+6. **Equipment used in NASP is standard and approved by NASP’s board of directors.** NASP uses equipment that is safe, universal fit, modern, affordable, durable, easy for the teacher and the student to learn to use and identical for every student. NASP archery lessons focus on the development of proper process over results. When every student uses identical equipment, the tendency to blame or credit the archer’s “success” on equipment choices is eliminated.
 
-    This is a **warning** admonition. Be careful!
+7. **Only entities approved by the NASP® board of directors may coordinate implementation of the NASP in states, provinces, and countries.** Founders believe successful implementation of NASP requires institutionalization on a state, province, or country-wide basis. The coordinating entity must be willing to adhere to NASP operating principles and be capable of delivering jurisdiction-wide implementation.
 
-### Details
+8. **After-school archery activities for NASP students should strive to be inclusive and suited to youth of all genders, sizes, abilities, and economic backgrounds.** In-school NASP lessons are presented to every student. Every aspect of the NASP experience is suited to a large number and variety of students. Most NASP students want to participate in afterschool archery activities. Many new archers would be discouraged to encounter methods or equipment in an after-school program that made it difficult for them to participate.
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+9. **NASP competitions should replicate, as closely as possible, the inclusive format used in the NASP National tournament.**
 
-??? info "Click to expand for more info"
-    
-    This content is hidden until you click to expand it.
-    Great for FAQs or long explanations.
-
-## Code Blocks
-
-> Go to [documentation](https://zensical.org/docs/authoring/code-blocks/)
-
-``` python hl_lines="2" title="Code blocks"
-def greet(name):
-    print(f"Hello, {name}!") # (1)!
-
-greet("Python")
-```
-
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
-
-    Code annotations allow to attach notes to lines of code.
-
-Code can also be highlighted inline: `#!python print("Hello, Python!")`.
-
-## Content tabs
-
-> Go to [documentation](https://zensical.org/docs/authoring/content-tabs/)
-
-=== "Python"
-
-    ``` python
-    print("Hello from Python!")
-    ```
-
-=== "Rust"
-
-    ``` rs
-    println!("Hello from Rust!");
-    ```
-
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
-
-## Footnotes
-
-> Go to [documentation](https://zensical.org/docs/authoring/footnotes/)
-
-Here's a sentence with a footnote.[^1]
-
-Hover it, to see a tooltip.
-
-[^1]: This is the footnote.
-
-
-## Formatting
-
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
-
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
-
-## Icons, Emojis
-
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
-
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
-
-## Maths
-
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
-
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
-
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
-
-<script id="MathJax-script" async src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-</script>
-
-## Task Lists
-
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
+10. **Funding partners and sponsors of the NASP and its participating schools and events should be appropriate for youth programming.**

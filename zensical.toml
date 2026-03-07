@@ -2,11 +2,15 @@
 site_name = "KyNASP Rulebook"
 site_description = "Kentucky National Archery in the Schools Program Official Rulebook"
 
-[navigation]
-items = [
-  { name = "Home", path = "index.md" },
-  { name = "Rulebook", path = "rulebook/" },
-  { name = "Interpretations", path = "interpretations/index.md" }
+nav = [
+  { "Home" = "index.md" },
+  { "Preamble" = "0-preamble.md"},
+  {"Article 1" = "1-eligibility.md"},
+  {"Article 2" = "2-registration.md"},
+  {"Article 3" = "3-equipment.md"},
+  {"Article 4" = "4-format.md"},
+  {"Article 5" = "5-scoring.md"},
+  {"Article 6" = "6-ties.md"}
 ]
 
 extra_css = ["stylesheets/extra.css"]
