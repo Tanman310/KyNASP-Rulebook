@@ -1,30 +1,49 @@
 .md-typeset .center-bold {
   text-align: center !important;
   font-weight: bold !important;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-top: 0em !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+  margin-right: 0rem !important;
+  padding-right: 0rem !important;
+  box-sizing: border-box !important;
 }
 
 .md-typeset .center-italic {
   text-align: center !important;
   font-style: italic !important;
+  margin-top: 0em !important;
+  margin-bottom: 1.25em !important;
 }
 
 .md-typeset h1 {
+  position: relative;
   text-align: center !important;
   margin-top: 1.25em !important;
+  margin-bottom: 0.5em !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.md-typeset h1 .headerlink {
+  position: absolute !important;
+  left: 100% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  margin-left: 0.35rem !important;
 }
 
 .md-typeset h2 {
   font-weight: bold !important;
-  font-size: 1.1rem !important;
-  margin: 1.25em 0 0em !important;
+  font-size: large !important;
+  margin-top: 0em !important;
+  margin-bottom: 0em !important;
 }
 
 .md-typeset h3 {
   font-weight: bold !important;
   font-size: medium !important;
-  margin-top: 1.25em !important;
+  margin-top: 0em !important;
   margin-bottom: 0em !important;
 }
 
@@ -48,7 +67,7 @@
   margin: 1em 0 !important;
   font-size: medium !important;
   margin-top: 0em !important;
-  margin-bottom: 0em !important;
+  margin-bottom: 1.25em !important;
   padding: 0em !important;
 }
 

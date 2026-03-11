@@ -4,13 +4,20 @@ site_description = "Kentucky National Archery in the Schools Program Official Ru
 
 nav = [
   { "Home" = "index.md" },
-  { "Preamble" = "0-preamble.md"},
-  {"Article 1" = "1-eligibility.md"},
-  {"Article 2" = "2-registration.md"},
-  {"Article 3" = "3-equipment.md"},
-  {"Article 4" = "4-format.md"},
-  {"Article 5" = "5-scoring.md"},
-  {"Article 6" = "6-ties.md"}
+  { "Official Rulebook" = [
+      { "Preamble" = "current/0-preamble.md" },
+      { "Article 1 – Eligibility" = "current/1-eligibility.md" },
+      { "Article 2 – Registration" = "current/2-registration.md" },
+      { "Article 3 – Equipment" = "current/3-equipment.md" },
+      { "Article 4 – Format" = "current/4-format.md" },
+      { "Article 5 – Scoring" = "current/5-scoring.md" },
+      { "Article 6 – Ties" = "current/6-ties.md" }
+    ] },
+  { "Redrafted Rulebook" = [
+      { "Preamble" = "redraft/0-preamble.md" },
+      { "Article 1 – Governance" = "redraft/1-governance.md" },
+      { "Article 2 – Eligibility" = "redraft/2-eligibility.md" }
+    ] }
 ]
 
 extra_css = ["stylesheets/extra.css"]
